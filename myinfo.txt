@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 My name is Kajal
 I am from Jintur 
 I like webseries
 
-dsfdsfhrfy
+I love eating
+=======
+>>>>>>> dev1
